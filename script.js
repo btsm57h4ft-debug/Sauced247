@@ -98,8 +98,8 @@ const products = [
     }
 ];
 
-// IMPORTANT: Replace 'sauced247' with your actual Snapchat username
-const SNAPCHAT_USERNAME = "sauced247";
+// Your Snapchat username
+const SNAPCHAT_USERNAME = "sauced24s";
 
 // Render products on page load
 document.addEventListener('DOMContentLoaded', function() {
